@@ -1,3 +1,5 @@
+This is a fork of https://github.com/Mr-Un1k0d3r/BOFCode/tree/main, added an aggressor script to make it havoc c2 compatible
+
 # BOFCode
 
 BOF files and CNA scripts for Cobalt Strike
